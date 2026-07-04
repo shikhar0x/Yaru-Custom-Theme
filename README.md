@@ -123,4 +123,4 @@ If the icon colors do not match your current theme, check whether your custom GN
 
 ## License
 
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE.txt) file for details.
+This project is licensed under the **MIT License**. See the [LICENSE.txt](LICENSE.txt) file for details.
